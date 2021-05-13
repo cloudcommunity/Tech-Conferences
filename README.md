@@ -8,6 +8,7 @@ Overview of upcoming tech conferences.
 | 26 May 2021 | [Data Cloud Summit](https://cloudonair.withgoogle.com/events/summit-data-cloud) by Google Cloud | cloud | online | free | n/a |
 | 27 May 2021 | [Financial Services Summit](https://cloudonair.withgoogle.com/events/summit-emea-finserv) by Google Cloud | cloud | online | free | n/a |
 | 27 May 2021 | [Financial Services Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-finserv) by Google Cloud | cloud | online | free | n/a |
+| 2 June 2021 | [OpenJS World 2021](https://openjsf.org/openjs-world-2021/) | - | online | free | n/a |
 | 10 June 2021 | [Applied ML Summit](https://cloudonair.withgoogle.com/events/summit-ml-practitioners) by Google Cloud | ML, cloud | online | free | n/a |
 | 22 June 2021 | [Digital Manufacturer Summit](https://cloudonair.withgoogle.com/events/summit-manufacturing) by Google Cloud | cloud | online | free | n/a |
 | 22 June 2021 | [Digital Manufacturer Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-manufacturing) by Google Cloud | cloud | online | free | n/a |
