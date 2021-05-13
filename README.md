@@ -12,7 +12,7 @@ Overview of upcoming tech conferences.
 | 22 June 2021 | [Digital Manufacturer Summit](https://cloudonair.withgoogle.com/events/summit-manufacturing) by Google Cloud | cloud | online | free | n/a |
 | 22 June 2021 | [Digital Manufacturer Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-manufacturing) by Google Cloud | cloud | online | free | n/a |
 | 27 July 2021 | [Retail and Consumer Goods Summit](https://cloudonair.withgoogle.com/events/summit-retail) by Google Cloud | cloud | online | free | n/a |
-| 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online | ? | n/a |
+| 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | ? | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 
 ## Sources
 
