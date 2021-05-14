@@ -18,6 +18,11 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | 27 July 2021 | [Retail and Consumer Goods Summit](https://cloudonair.withgoogle.com/events/summit-retail) by Google Cloud | cloud | online | free | n/a |
 | 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | ? | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 
+## Suitable Event Types
+
+- summit
+- conference
+
 ## Sources
 
 - https://cloudonair.withgoogle.com/#upcoming_events
