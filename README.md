@@ -30,3 +30,4 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 - https://cloudonair.withgoogle.com/#upcoming_events
 - https://events.linuxfoundation.org/
 - https://events.microsoft.com/
+- https://confs.tech/
