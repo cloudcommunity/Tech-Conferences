@@ -4,18 +4,8 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 
 | Date | Conference | Focus | Location | Price | CFP |
 | --- | --- | --- | --- | --- | --- |
-| 17-21 May 2021 | [Security Skills Bootcamp](https://www.microsoft.com/en-au/cloud-training-events/security-cloud-skills-in-a-week) by Microsoft | cloud, security | online | free | n/a |
-| 18-20 May 2021 | [Google I/O 2021](https://events.google.com/io/) | diverse | online | free | n/a |
-| 24-28 May 2021 | [Data+AI Summit](https://databricks.com/dataaisummit) | data, AI | online | free/paid | n/a |
-| 25-26 May 2021 | [VeeamON 2021](https://www.veeam.com/veeamon) | - | online | free | n/a |
-| 25-27 May 2021 | [Microsoft Build](https://mybuild.microsoft.com/) | diverse | online | free | n/a |
-| 25-27 May 2021 | [JFrog SwampUP 2021 - Americas](https://swampup.jfrog.com/) | DevOps | online | free/paid | n/a |
-| 26 May 2021 | [Data Cloud Summit](https://cloudonair.withgoogle.com/events/summit-data-cloud) by Google Cloud | cloud | online | free | n/a |
-| 27 May 2021 | [Financial Services Summit](https://cloudonair.withgoogle.com/events/summit-emea-finserv) by Google Cloud | cloud | online | free | n/a |
-| 27 May 2021 | [Financial Services Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-finserv) by Google Cloud | cloud | online | free | n/a |
-| 1-3 June 2021 | [JFrog SwampUP 2021 - EMEA](https://swampup.jfrog.com/) | DevOps | online | free/paid | n/a |
-| 2 June 2021 | [OpenJS World 2021](https://openjsf.org/openjs-world-2021/) | JavaScript | online | free | n/a |
 | 10 June 2021 | [Applied ML Summit](https://cloudonair.withgoogle.com/events/summit-ml-practitioners) by Google Cloud | ML, cloud | online | free | n/a |
+| 17 June 2021 | [NODES 2021](https://neo4j.brand.live/c/2021nodes-homepage) | graph database | online | free | n/a |
 | 22 June 2021 | [Digital Manufacturer Summit](https://cloudonair.withgoogle.com/events/summit-manufacturing) by Google Cloud | cloud | online | free | n/a |
 | 22 June 2021 | [Digital Manufacturer Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-manufacturing) by Google Cloud | cloud | online | free | n/a |
 | 27 July 2021 | [Retail and Consumer Goods Summit](https://cloudonair.withgoogle.com/events/summit-retail) by Google Cloud | cloud | online | free | n/a |
