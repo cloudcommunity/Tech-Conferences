@@ -5,6 +5,7 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | Date | Conference | Focus | Location | Price | CFP |
 | --- | --- | --- | --- | --- | --- |
 | 20 July 2021 | [Security Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-security) by Google | security | online | free | n/a |
+| 21-22 July 2021 | [Cloud Foundry Summit](https://www.cloudfoundry.org/events/summit/cfsummit2021/) | cloud computing | online | free | n/a |
 | 27 July 2021 | [Retail and Consumer Goods Summit](https://cloudonair.withgoogle.com/events/summit-retail) by Google Cloud | cloud | online | free | n/a |
 | 4-6 August 2021 | [Beam Summit 2021](https://beam-summit-2021-digital.web.app/) | data | online | free | [13 June 2021](https://sessionize.com/beam-digital-summit-2021) |
 | 21-23 September 2021 | [Hybrid Container Days](https://www.containerdays.io/) | Cloud Native | online | free/paid | n/a |
