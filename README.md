@@ -5,6 +5,7 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | Date | Conference | Focus | Location | Price | CFP |
 | --- | --- | --- | --- | --- | --- |
 | 13-14 July 2021 | [MongoDB.Live](https://www.mongodb.com/live) | data | online | free | n/a |
+| 14-15 July 2021 | [TechStrong Con Virtual Summit](https://www.mediaopsevents.com/techstrongcon) | tech | online | free | n/a |
 | 20 July 2021 | [Security Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-security) by Google | security | online | free | n/a |
 | 21-22 July 2021 | [Cloud Foundry Summit](https://www.cloudfoundry.org/events/summit/cfsummit2021/) | cloud | online | free | n/a |
 | 27 July 2021 | [Retail and Consumer Goods Summit](https://cloudonair.withgoogle.com/events/summit-retail) by Google Cloud | cloud | online | free | n/a |
