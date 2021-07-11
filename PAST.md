@@ -14,6 +14,10 @@
 | 27 May 2021 | [Financial Services Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-finserv) by Google Cloud | cloud | online | free | n/a |
 | 1-3 June 2021 | [JFrog SwampUP 2021 - EMEA](https://swampup.jfrog.com/) | DevOps | online | free/paid | n/a |
 | 2 June 2021 | [OpenJS World 2021](https://openjsf.org/openjs-world-2021/) | JavaScript | online | free | n/a |
+| 10 June 2021 | [Applied ML Summit](https://cloudonair.withgoogle.com/events/summit-ml-practitioners) by Google Cloud | ML, cloud | online | free | n/a |
+| 17 June 2021 | [NODES 2021](https://neo4j.brand.live/c/2021nodes-homepage) | graph database | online | free | n/a |
+| 22 June 2021 | [Digital Manufacturer Summit](https://cloudonair.withgoogle.com/events/summit-manufacturing) by Google Cloud | cloud | online | free | n/a |
+| 22 June 2021 | [Digital Manufacturer Summit - EMEA](https://cloudonair.withgoogle.com/events/summit-emea-manufacturing) by Google Cloud | cloud | online | free | n/a |
 
 
 https://ignite.paloaltonetworks.com/
