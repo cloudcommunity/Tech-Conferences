@@ -18,7 +18,7 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | 21-23 September 2021 | [Hybrid Container Days](https://www.containerdays.io/) | Cloud Native | online | free/paid | n/a |
 | 29 September 2021 | [Future Data Driven Summit](https://www.eventbrite.com/e/future-data-driven-summit-event-tickets-157885366381) | data | online | free | n/a |
 | 6-7 October 2021 | [Jamstack Conf 2021](https://jamstackconf.com/) | Jamstack | online | free | n/a |
-| 6-7 October 2021 | [Odoo Experience 2021](https://www.odoo.com/event/odoo-experience-2021-2847/page/oxp21-introduction) | ERP | online | ? | [1 July 2021](https://www.odoo.com/event/odoo-experience-2021-2847/track_proposal) |
+| 6-7 October 2021 | [Odoo Experience 2021](https://www.odoo.com/event/odoo-experience-2021-2847/page/oxp21-introduction) | ERP | online | free | [1 July 2021](https://www.odoo.com/event/odoo-experience-2021-2847/track_proposal) |
 | 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | ? | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 | 19-21 October 2021 | [HashiConf Global](https://hashiconf.com/global/) | Tech / Cloud / DevOps | Online | Free | n/a |
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
