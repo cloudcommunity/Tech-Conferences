@@ -23,6 +23,8 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | 6-7 October 2021 | [TransformX AI Conference](https://www.aicamp.ai/event/eventdetails/W2021100608) | AI/ML/Robotiics | online | free | n/a |
 | 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | $50(before Oct 05)/$150 | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 | 12-14 October 2021 | [Google Cloud Next 2021](https://cloud.withgoogle.com/next) | All things Google Cloud | Online | Free | n/a |
+| 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | ? | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
+| 11-15 October 2021 | [KubeCon + CloudnativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Tech / Cloud / DevOps | Online/Offline | Free/Paid | n/a |
 | 19-21 October 2021 | [HashiConf Global](https://hashiconf.com/global/) | Tech / Cloud / DevOps | Online | Free | n/a |
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
 | 22-23 October 2021 | [Git Commit Show](https://gitcommit.show/) | Software Development | Online | Free| n/a | 
