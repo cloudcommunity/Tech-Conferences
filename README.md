@@ -2,6 +2,8 @@
 
 Overview of upcoming tech conferences, listed chronologically (the most recent - on top).
 
+Past events should be moved to the file PAST.md (in the same repo as this file) in a chronological order (appended to the bottom of the PAST.md table).
+
 | Date | Conference | Focus | Location | Price | CFP |
 | --- | --- | --- | --- | --- | --- |
 | 5-7 October 2021 | [VMworld 2021](https://www.vmware.com/vmworld/en/index.html) | cloud | online | free | n/a |
