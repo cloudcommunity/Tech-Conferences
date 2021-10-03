@@ -24,6 +24,7 @@ Overview of upcoming tech conferences, listed chronologically (the most recent -
 | 11-15 October 2021 | [KubeCon + CloudnativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Tech / Cloud / DevOps | Online/Offline | Free/Paid | n/a |
 | 19-21 October 2021 | [HashiConf Global](https://hashiconf.com/global/) | Tech / Cloud / DevOps | Online | Free | n/a |
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
+| 1-31 October 2021 | [AWS-Awesome-Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Cloud | Online | Free | n/a |
 
 ## Suitable Event Types
 
