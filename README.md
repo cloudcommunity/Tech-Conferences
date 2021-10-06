@@ -16,8 +16,10 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 11-15 October 2021 | [KubeCon + CloudnativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Tech / Cloud / DevOps | Online/Offline | Free/Paid | n/a |
 | 19-21 October 2021 | [HashiConf Global](https://hashiconf.com/global/) | Tech / Cloud / DevOps | Online | Free | n/a |
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
+| 26 October 2021 | [NextJS CONF](https://nextjs.org/conf) | NextJS | Online / US | Free | n/a |
 | 1-31 October 2021 | [AWS Awesome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Cloud | Online | Free | n/a |
 | 22-23 October 2021 | [Git Commit Show](https://gitcommit.show/) | Software Development | Online | Free| n/a | 
+| 9-11 November 2021 | [Kontent Horizons](https://horizons.kontent.ai/) | Kontent | Online - APAC Nov 9/North America Nov 10/Europe Nov 11 | Free | n/a |
 | 23 December 2021 | [The ExtremeJS Online Conf](https://xtremejs.dev/2021/) | JavaScript | Online | Fee | n/a | 
 
 ## Suitable Event Types
