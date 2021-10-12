@@ -19,7 +19,8 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
 | 26 October 2021 | [NextJS CONF](https://nextjs.org/conf) | NextJS | Online / US | Free | n/a |
 | 1-31 October 2021 | [AWS Awesome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Cloud | Online | Free | n/a |
-| 22-23 October 2021 | [Git Commit Show](https://gitcommit.show/) | Software Development | Online | Free| n/a | 
+| 22-23 October 2021 | [Git Commit Show](https://gitcommit.show/) | Software Development | Online | Free| n/a |
+| 27 & 28 October 2021 | [AWS Innovate Online Conference - Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/modern-apps/) | Cloud Devops | Online | Free| n/a |
 | 28 October 2021 | [All Day DevOps-The world’s largest DevOps conference](https://www.alldaydevops.com/) | DevOps| Online | Free| n/a | 
 | 2-4 November 2021|[MICROSOFT IGNITE](https://myignite.microsoft.com/home) | Cloud | Online | Free | n/a | 
 | 9-11 November 2021 | [Kontent Horizons](https://horizons.kontent.ai/) | Kontent | Online - APAC Nov 9/North America Nov 10/Europe Nov 11 | Free | n/a |
