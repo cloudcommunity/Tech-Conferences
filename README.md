@@ -15,6 +15,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 12-14 October 2021 | [Google Cloud Next 2021](https://cloud.withgoogle.com/next) | All things Google Cloud | Online | Free | n/a |
 | 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | ? | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 | 11-15 October 2021 | [KubeCon + CloudnativeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Tech / Cloud / DevOps | Online/Offline | Free/Paid | n/a |
+| 14 October 2021 | [O’Reilly Radar: Data & AI](https://www.oreilly.com/online-learning/radar-event-data-ai-2021.html) | data, AI | Online | Free | n/a |
 | 19-21 October 2021 | [HashiConf Global](https://hashiconf.com/global/) | Tech / Cloud / DevOps | Online | Free | n/a |
 | 20-21 October 2021 | [VUW.JS Live](https://vuejslive.com/) | Vue JS | Online & London (UK) | Range from €17-350 | n/a |
 | 20-22 October 2021 | [Twilio Signal](https://signal.twilio.com/) | Twilio | Online / US | Free / USD 200 | n/a |
