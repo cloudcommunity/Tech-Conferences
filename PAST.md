@@ -31,6 +31,11 @@
 | 14-15 September 2021 | [Kafka Summit Americas](https://www.kafka-summit.org/events/kafka-summit-americas-2021/about) | Kafka | online | free | n/a | 
 | 21-23 September 2021 | [Hybrid Container Days](https://www.containerdays.io/) | Cloud Native | online | free/paid | n/a |
 | 29 September 2021 | [Future Data Driven Summit](https://www.eventbrite.com/e/future-data-driven-summit-event-tickets-157885366381) | data | online | free | n/a |
-
+| 5-7 October 2021 | [VMworld 2021](https://www.vmware.com/vmworld/en/index.html) | cloud | online | free | n/a |
+| 6-7 October 2021 | [Jamstack Conf 2021](https://jamstackconf.com/) | Jamstack | online | free | n/a |
+| 6-7 October 2021 | [Odoo Experience 2021](https://www.odoo.com/event/odoo-experience-2021-2847/page/oxp21-introduction) | ERP | online | free | [1 July 2021](https://www.odoo.com/event/odoo-experience-2021-2847/track_proposal) |
+| 6-7 October 2021 | [TransformX AI Conference](https://www.aicamp.ai/event/eventdetails/W2021100608) | AI/ML/Robotiics | online | free | n/a |
+| 10 October 2021 | [Open Source India](https://www.opensourceindia.in) | Software | online | free | n/a |
+| 10-12 October 2021 | [Open Networking & Edge Summit + Kubernetes on Edge Day](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/) | edge | online & Los Angeles, USA | $50(before Oct 05)/$150 | [20 June 2021](https://events.linuxfoundation.org/open-networking-edge-summit-north-america/program/cfp/) |
 
 https://ignite.paloaltonetworks.com/
