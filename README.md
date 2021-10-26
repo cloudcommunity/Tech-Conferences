@@ -15,6 +15,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 22-23 October 2021 | [Git Commit Show](https://gitcommit.show/) | Software Development | Online | Free| n/a |
 | 22 & 25 October 2021 | [React Advanced London](https://reactadvanced.com/) | React/Front End | Online / London (UK) | Range from €13-570 | n/a |
 | 26 October 2021 | [NextJS CONF](https://nextjs.org/conf) | NextJS | Online / US | Free | n/a |
+| 26-28 October 2021 | [AI DevWorld 2021](https://aidevworld.com/) | AI | Online | Paid ([discounts/freebie available](https://bit.ly/3bga2YI)) | n/a |
 | 1-31 October 2021 | [AWS Awesome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Cloud | Online | Free | n/a |
 | 27 & 28 October 2021 | [AWS Innovate Online Conference - Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/modern-apps/) | Cloud Devops | Online | Free| n/a |
 | 28 October 2021 | [All Day DevOps-The world’s largest DevOps conference](https://www.alldaydevops.com/) | DevOps| Online | Free| n/a | 
