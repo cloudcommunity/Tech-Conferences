@@ -23,6 +23,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 3 November 2021|[Chrome Dev Summit 2021](https://developer.chrome.com/devsummit/) | Web | Online | Free | n/a |
 | 8-11 November 2021 | [NVIDIA GTC](https://www.nvidia.com/gtc/) | AI, Data Science | Online | Free | n/a |
 | 9-11 November 2021 | [Kontent Horizons](https://horizons.kontent.ai/) | Kontent | Online - APAC Nov 9/North America Nov 10/Europe Nov 11 | Free | n/a |
+| 16-17 November 2021 | [Deploy](https://deploy.digitalocean.com/) by DigitalOcean | computing | Online | Free | n/a |
 | 7-9 December 2021 | [SRE Con Americas](https://xtremejs.dev/2021/) | SRE | Online | 60$ | n/a | 
 | 23 December 2021 | [The ExtremeJS Online Conf](https://www.usenix.org/conference/srecon20americas/) | JavaScript | Online | Fee | n/a | 
 | 9-11 February 2022 | [JS World Conference](https://jsworldconference.com/) | JavaScript | Amsterdam | € 314,54-€ 1.006,66 | [November 1, 2021](https://jsworldconference.com/speakers) | 
