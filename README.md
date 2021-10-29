@@ -19,7 +19,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 1-31 October 2021 | [AWS Awesome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) | Cloud | Online | Free | n/a |
 | 27 & 28 October 2021 | [AWS Innovate Online Conference - Modern Applications Edition](https://aws.amazon.com/events/aws-innovate/modern-apps/) | Cloud Devops | Online | Free| n/a |
 | 28 October 2021 | [All Day DevOps-The world’s largest DevOps conference](https://www.alldaydevops.com/) | DevOps| Online | Free| n/a | 
-| 2-4 November 2021|[MICROSOFT IGNITE](https://myignite.microsoft.com/home) | Cloud | Online | Free | n/a |
+| 2-4 November 2021|[Microsoft Ignite](https://myignite.microsoft.com/home) | Cloud | Online | Free | n/a |
 | 3 November 2021|[Chrome Dev Summit 2021](https://developer.chrome.com/devsummit/) | Web | Online | Free | n/a |
 | 8-11 November 2021 | [NVIDIA GTC](https://www.nvidia.com/gtc/) | AI, Data Science | Online | Free | n/a |
 | 9-11 November 2021 | [Kontent Horizons](https://horizons.kontent.ai/) | Kontent | Online - APAC Nov 9/North America Nov 10/Europe Nov 11 | Free | n/a |
