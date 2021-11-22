@@ -20,6 +20,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 16-17 November 2021 | [snowday](https://www.snowflake.com/snowday/) by snowflake | data | Online | Free | n/a |
 | 17-18 November 2021 | [No-Code Conf 2021](https://webflow.com/nocodeconf/) | low code, no code | Online | Free | n/a |
 | 20 November 2021 | [Svelte Summit Fall 2021](https://sveltesummit.com/) | Svelte, JavaScript | Online | Free | n/a |
+| 27-28 November 2021 | [Git Commit Show](https://gitcommit.show/) | developers | Online | Free | n/a |
 | 29 November - 3 December 2021 | [AWS re:Invent](https://reinvent.awsevents.com/) | Cloud | Online / Las Vegas | Free / $1799 | n/a |
 | 7-9 December 2021 | [SRE Con Americas](https://xtremejs.dev/2021/) | SRE | Online | 60$ | n/a | 
 | 23 December 2021 | [The ExtremeJS Online Conf](https://www.usenix.org/conference/srecon20americas/) | JavaScript | Online | Free | n/a | 
