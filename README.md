@@ -24,6 +24,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 29 November - 3 December 2021 | [AWS re:Invent](https://reinvent.awsevents.com/) | Cloud | Online / Las Vegas | Free / $1799 | n/a |
 | 7-9 December 2021 | [SRE Con Americas](https://xtremejs.dev/2021/) | SRE | Online | 60$ | n/a | 
 | 23 December 2021 | [The ExtremeJS Online Conf](https://www.usenix.org/conference/srecon20americas/) | JavaScript | Online | Free | n/a | 
+| 26-27 January 2022 | [TheJam.dev](https://thejam.dev/) | web development | Online | Free | n/a |
 | 27-28 January 2022 | [Chaos Carnival 2022](https://chaoscarnival.io/) | chaos engineering | Online | Free | n/a |
 | 9-11 February 2022 | [JS World Conference](https://jsworldconference.com/) | JavaScript | Amsterdam | € 314,54-€ 1.006,66 | [November 1, 2021](https://jsworldconference.com/speakers) | 
 
