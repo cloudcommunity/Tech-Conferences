@@ -27,6 +27,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 | 26-27 January 2022 | [TheJam.dev](https://thejam.dev/) | web development | Online | Free | n/a |
 | 27-28 January 2022 | [Chaos Carnival 2022](https://chaoscarnival.io/) | chaos engineering | Online | Free | n/a |
 | 9-11 February 2022 | [JS World Conference](https://jsworldconference.com/) | JavaScript | Amsterdam | € 314,54-€ 1.006,66 | [November 1, 2021](https://jsworldconference.com/speakers) | 
+| 20-21 April 2022 | [Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit) | Data Science | DevOps | Web3 | Online | Free | n/a |
 
 ## Suitable Event Types
 
@@ -39,3 +40,4 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 - https://events.linuxfoundation.org/
 - https://events.microsoft.com/
 - https://confs.tech/
+- https://codementor.io/events 
