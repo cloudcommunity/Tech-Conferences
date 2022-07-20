@@ -6,6 +6,7 @@ Past events should be moved to the file PAST.md (in the same repo as this file) 
 
 | Date | Conference | Focus | Location | Price | CFP |
 | --- | --- | --- | --- | --- | --- |
+| 1 & 2 December 2022 | [Oπe\n Conf Athens]([https://reactadvanced.com/](https://www.open-conf.gr/)) | Infrastructure, Applications, IoT | Athens, Greece | Range from €100+ | https://sessionize.com/open_conf/ |
 | 22 & 25 October 2021 | [React Advanced London](https://reactadvanced.com/) | React/Front End | Online / London (UK) | Range from €13-570 | n/a |
 | 26 October 2021 | [NextJS CONF](https://nextjs.org/conf) | NextJS | Online / US | Free | n/a |
 | 26-28 October 2021 | [AI DevWorld 2021](https://aidevworld.com/) | AI | Online | Paid ([discounts/freebie available](https://bit.ly/3bga2YI)) | n/a |
